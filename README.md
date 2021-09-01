@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabriel%2Ddel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-del/)](https://www.linkedin.com/in/gabriel-del/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabrieldelc.barros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldelc.barros@gmail.com)](mailto:gabrieldelc.barros)
+[![Gmail Badge](https://img.shields.io/badge/-gabrieldelc.barros-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldelc.barros@gmail.com)](mailto:gabrieldelc.barros@gmail.com)
 
 
 
