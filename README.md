@@ -2,6 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Del-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-del/)](https://www.linkedin.com/in/gabriel-del/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gabriel%20Del-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mamsoares@gmail.com)](mailto:mamsoares@gmail.com)
 
 <!--
 **gabriel-del/gabriel-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
