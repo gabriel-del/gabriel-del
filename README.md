@@ -5,18 +5,9 @@ I'm from Pernambuco / Brazil (🇧🇷)
 [![Linkedin Badge](https://img.shields.io/badge/-gabriel--del-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-del/)](https://www.linkedin.com/in/gabriel-del/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldelc.barros-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldelc.barros@gmail.com)](mailto:gabrieldelc.barros@gmail.com)
 
-[skylab](https://github.com/gabriel-del/skylab)
-[dip-face](https://github.com/gabriel-del/dip-face)
-[ataso2-calibration](https://github.com/gabriel-del/ataso2-calibration)
 [latex-abnt-template](https://github.com/gabriel-del/latex-abnt-template)
-[jamstack-blog-graduation](https://github.com/gabriel-del/jamstack-blog-graduation)
-[ia-epilepsy](https://github.com/gabriel-del/ia-epilepsy)
 [eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel)
-[dip-grid](https://github.com/gabriel-del/dip-grid)
-[dip-flowmeter](https://github.com/gabriel-del/dip-flowmeter)
 [contract-latex](https://github.com/gabriel-del/contract-latex)
-[dotfiles](https://github.com/gabriel-del/dotfiles)
-[dbookmarks](https://github.com/gabriel-del/dbookmarks)
 
 ## Jamstack
 ![Jamstack](https://img.shields.io/static/v1?style=for-the-badge&message=Jamstack&color=F0047F&logo=Jamstack&logoColor=FFFFFF&label=)
@@ -27,6 +18,10 @@ I'm from Pernambuco / Brazil (🇧🇷)
 ![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=0E83CD&logo=Hexo&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![reveal.js](https://img.shields.io/static/v1?style=for-the-badge&message=reveal.js&color=222222&logo=reveal.js&logoColor=F2E142&label=)
+
+[skylab](https://github.com/gabriel-del/skylab)
+
+[jamstack-blog-graduation](https://github.com/gabriel-del/jamstack-blog-graduation)
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
@@ -46,6 +41,14 @@ I'm from Pernambuco / Brazil (🇧🇷)
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
 ![Octave](https://img.shields.io/static/v1?style=for-the-badge&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label=)
 
+[dip-grid](https://github.com/gabriel-del/dip-grid)
+
+[dip-flowmeter](https://github.com/gabriel-del/dip-flowmeter)
+
+[ia-epilepsy](https://github.com/gabriel-del/ia-epilepsy)
+
+[dip-face](https://github.com/gabriel-del/dip-face)
+
 ## Sysadmin
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Gentoo](https://img.shields.io/static/v1?style=for-the-badge&message=Gentoo&color=54487A&logo=Gentoo&logoColor=FFFFFF&label=)
@@ -58,6 +61,10 @@ I'm from Pernambuco / Brazil (🇧🇷)
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
 ![tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
+
+[dotfiles](https://github.com/gabriel-del/dotfiles)
+
+[dbookmarks](https://github.com/gabriel-del/dbookmarks)
 
 ![Brave](https://img.shields.io/static/v1?style=for-the-badge&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=)
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
