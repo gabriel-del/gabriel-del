@@ -45,12 +45,12 @@
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
 ![tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
-![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 
 ![Brave](https://img.shields.io/static/v1?style=for-the-badge&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=)
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Firefox Browser](https://img.shields.io/static/v1?style=for-the-badge&message=Firefox+Browser&color=FF7139&logo=Firefox+Browser&logoColor=FFFFFF&label=)
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 
 #### Others
 
