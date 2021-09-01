@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gabriel!
 
-I'm from Pernambuco / Brazil 🇧🇷
+🇧🇷 I'm from Pernambuco / Brazil 
+💻 JAMstack Developer and Biomedical Engineer
+⭐ Here you will find my personal projects
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabriel--del-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-del/)](https://www.linkedin.com/in/gabriel-del/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldelc.barros-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldelc.barros@gmail.com)](mailto:gabrieldelc.barros@gmail.com)
@@ -16,9 +18,9 @@ I'm from Pernambuco / Brazil 🇧🇷
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![reveal.js](https://img.shields.io/static/v1?style=for-the-badge&message=reveal.js&color=222222&logo=reveal.js&logoColor=F2E142&label=)
 
-[skylab](https://github.com/gabriel-del/skylab)
+[Skylab](https://github.com/gabriel-del/skylab): JAMstack blog to a physiotherapy Internship student
 
-[jamstack-blog-graduation](https://github.com/gabriel-del/jamstack-blog-graduation)
+[JAMstack-blog-graduation](https://github.com/gabriel-del/jamstack-blog-graduation): JAMstack blog made at the beginning of my graduation
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
@@ -36,13 +38,13 @@ I'm from Pernambuco / Brazil 🇧🇷
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 
-[dip-grid](https://github.com/gabriel-del/dip-grid)
+[DIP-Flowmeter](https://github.com/gabriel-del/dip-flowmeter): Output flow from flowmeter image or video
 
-[dip-flowmeter](https://github.com/gabriel-del/dip-flowmeter)
+[DIP-Face](https://github.com/gabriel-del/dip-face): Blur mouth
 
-[ia-epilepsy](https://github.com/gabriel-del/ia-epilepsy)
+[DIP-Grid](https://github.com/gabriel-del/dip-grid): Paint on a chess table
 
-[dip-face](https://github.com/gabriel-del/dip-face)
+[DIP-Epilepsy](https://github.com/gabriel-del/ia-epilepsy): AI on Eilepsy cases
 
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
 ![Octave](https://img.shields.io/static/v1?style=for-the-badge&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label=)
@@ -51,9 +53,9 @@ I'm from Pernambuco / Brazil 🇧🇷
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
 ![tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
 
-[latex-abnt-template](https://github.com/gabriel-del/latex-abnt-template)
+[Latex-abnt-template](https://github.com/gabriel-del/latex-abnt-template): Template latex to make article easily
 
-[contract-latex](https://github.com/gabriel-del/contract-latex)
+[Contract-latex](https://github.com/gabriel-del/contract-latex): Contract model using latex
 
 ## Sysadmin
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
@@ -63,11 +65,11 @@ I'm from Pernambuco / Brazil 🇧🇷
 ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
 ![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 
-[dotfiles](https://github.com/gabriel-del/dotfiles)
+[Dotfiles](https://github.com/gabriel-del/dotfiles): My personal and actual dotfiles
 
-[dbookmarks](https://github.com/gabriel-del/dbookmarks)
+[DBookmarks](https://github.com/gabriel-del/dbookmarks): Convert bookmarks from browser to folders and files
 
-[eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel)
+[Eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel)
 
 ![Brave](https://img.shields.io/static/v1?style=for-the-badge&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=)
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
