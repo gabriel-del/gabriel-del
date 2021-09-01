@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gabriel!
 
-🇧🇷 I'm from Pernambuco / Brazil 
-💻 JAMstack Developer and Biomedical Engineer
-⭐ Here you will find my personal projects
+🇧🇷 &nbsp; I'm from Pernambuco / Brazil <br>
+💻 &nbsp; JAMstack Developer and Biomedical Engineer <br>
+⭐ &nbsp; Here you will find my personal projects
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabriel--del-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-del/)](https://www.linkedin.com/in/gabriel-del/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldelc.barros-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldelc.barros@gmail.com)](mailto:gabrieldelc.barros@gmail.com)
