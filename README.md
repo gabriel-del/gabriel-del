@@ -15,6 +15,10 @@
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![reveal.js](https://img.shields.io/static/v1?style=for-the-badge&message=reveal.js&color=222222&logo=reveal.js&logoColor=F2E142&label=)
+![Hugo](https://img.shields.io/static/v1?style=for-the-badge&message=Hugo&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)
+![Jekyll](https://img.shields.io/static/v1?style=for-the-badge&message=Jekyll&color=CC0000&logo=Jekyll&logoColor=FFFFFF&label=)
+![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
+![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=0E83CD&logo=Hexo&logoColor=FFFFFF&label=)
 
 #### Machine Learning and Image Processing
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
