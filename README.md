@@ -1,11 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gabriel!
 
-I'm from Pernambuco / Brazil (🇧🇷)
+I'm from Pernambuco / Brazil 🇧
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabriel--del-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-del/)](https://www.linkedin.com/in/gabriel-del/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldelc.barros-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldelc.barros@gmail.com)](mailto:gabrieldelc.barros@gmail.com)
 
-[eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel)
 
 ## Jamstack
 ![Jamstack](https://img.shields.io/static/v1?style=for-the-badge&message=Jamstack&color=F0047F&logo=Jamstack&logoColor=FFFFFF&label=)
@@ -67,6 +66,8 @@ I'm from Pernambuco / Brazil (🇧🇷)
 [dotfiles](https://github.com/gabriel-del/dotfiles)
 
 [dbookmarks](https://github.com/gabriel-del/dbookmarks)
+
+[eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel)
 
 ![Brave](https://img.shields.io/static/v1?style=for-the-badge&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=)
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
