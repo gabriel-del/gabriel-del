@@ -69,7 +69,7 @@
 
 [DBookmarks](https://github.com/gabriel-del/dbookmarks): Convert bookmarks from browser to folders and files
 
-[Eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel)
+[Eletric-scalpel](https://github.com/gabriel-del/eletric-scalpel): Simulate eletric-scalpel using arduino
 
 ![Brave](https://img.shields.io/static/v1?style=for-the-badge&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=)
 ![Opera](https://img.shields.io/static/v1?style=for-the-badge&message=Opera&color=FF1B2D&logo=Opera&logoColor=FFFFFF&label=)
