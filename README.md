@@ -13,13 +13,13 @@
 ![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=663399&logo=Gatsby&logoColor=FFFFFF&label=)
 ![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=0E83CD&logo=Hexo&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![reveal.js](https://img.shields.io/static/v1?style=for-the-badge&message=reveal.js&color=222222&logo=reveal.js&logoColor=F2E142&label=)
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-![reveal.js](https://img.shields.io/static/v1?style=for-the-badge&message=reveal.js&color=222222&logo=reveal.js&logoColor=F2E142&label=)
 ![Disqus](https://img.shields.io/static/v1?style=for-the-badge&message=Disqus&color=2E9FFF&logo=Disqus&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
@@ -40,8 +40,8 @@
 ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
 ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
 
-![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
+![Super User](https://img.shields.io/static/v1?style=for-the-badge&message=Super+User&color=38A1CE&logo=Super+User&logoColor=FFFFFF&label=)
 ![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
 ![tmux](https://img.shields.io/static/v1?style=for-the-badge&message=tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=)
