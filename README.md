@@ -20,7 +20,6 @@
 
 [Skylab](https://github.com/gabriel-del/skylab): JAMstack blog to a physiotherapy Internship student
 
-[JAMstack-blog-graduation](https://github.com/gabriel-del/jamstack-blog-graduation): JAMstack blog made at the beginning of my graduation
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
